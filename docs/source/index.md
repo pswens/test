@@ -1,4 +1,4 @@
-![](img/CIS_CSAT_Pro_RGB.png)
+![](source/CIS_CSAT_Pro_RGB.png)
 
 
 # CIS CSAT Pro Deployment Guide#
