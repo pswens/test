@@ -1,7 +1,7 @@
-![](source/CIS_CSAT_Pro_RGB.png)
+![](docs/source/CIS_CSAT_Pro_RGB.png)
 
 
-# CIS CSAT Pro Deployment Guide#
+# CIS CSAT Pro Deployment Guide #
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
