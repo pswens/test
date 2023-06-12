@@ -1,4 +1,4 @@
-![](source/CIS_CSAT_Pro_RGB.png)
+BLAH
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
